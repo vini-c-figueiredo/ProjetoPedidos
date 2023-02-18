@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Order.Entities.Enum
+namespace Orders.Entities.Enum
 {
     enum OrderStatus : int
     {

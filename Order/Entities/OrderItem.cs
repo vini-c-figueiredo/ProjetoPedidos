@@ -1,7 +1,7 @@
-﻿using Order.Entities;
+﻿using Orders.Entities;
 using System;
 
-namespace Order.Entities
+namespace Orders.Entities
 {
     class OrderItem
     {

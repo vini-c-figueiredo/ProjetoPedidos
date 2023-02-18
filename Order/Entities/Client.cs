@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Order.Entities
+namespace Orders.Entities
 {
     class Client
     {

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 using System.Text;
-using Order.Entities.Enum;
+using Orders.Entities.Enum;
 
-namespace Order.Entities
+namespace Orders.Entities
 {
     class Order
     {
